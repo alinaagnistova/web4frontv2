@@ -1,0 +1,10 @@
+.formButtons {
+    margin-left: 25%;
+    border: none;
+}
+.formButtons td {
+    padding-right: 5px;
+}
+.MuiSvgIcon-root {
+    font-size: 15px !important;
+}
